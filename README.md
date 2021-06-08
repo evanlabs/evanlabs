@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![evanyeung's github stats](https://github-readme-stats.vercel.app/api?username=evanlabs&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanlabs&layout=compact)
+
